@@ -1,2 +1,2 @@
 # Blinkit_clone
-Blinkit Clone with HTML,CSS and JavaScript
+Blinkit Clone with HTML,CSS and JavaScript (Not Responsive)
